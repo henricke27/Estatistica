@@ -1,0 +1,15 @@
+Renda K1: 4.4
+Idade K1: 41.5
+
+Renda K2: 9.975
+Idade K2: 30.5
+
+Indivíduos do primeiro grupo
+[Renda: 2.4, Idade: 42.0]
+[Renda: 6.4, Idade: 41.0]
+
+Indivíduos do segundo grupo
+[Renda: 9.4, Idade: 28.0]
+[Renda: 8.4, Idade: 31.0]
+[Renda: 18.2, Idade: 38.0]
+[Renda: 3.9, Idade: 25.0]
